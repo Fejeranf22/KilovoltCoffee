@@ -18,12 +18,12 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: no-repeat center center scroll;
+	background:url("kilovolt05.jpg"); no-repeat center center scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background:  no-repeat center center scroll;
+	background-image:url("kilovolt05.jpg");  no-repeat center center scroll;
     height: 450px;
 }
 
